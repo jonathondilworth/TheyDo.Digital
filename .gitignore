@@ -1,0 +1,7 @@
+additional/
+assets/img/PSD/
+.DS_Store
+*.swp
+*.swo
+*~
+*.psd
