@@ -99,6 +99,27 @@ Table of Contents
 	background: #000;
 }
 
+/* custom white menu code */
+
+.b-white i,
+.b-white i:before,
+.b-white i:after {
+  background: #fff;
+}
+
+.white {
+  color: #fff;
+}
+
+/*.mobile-navigation-white a,
+.header-with-buttons-white .navigation-white ul li a,
+.social-icons-white a, .header-icons-white a,
+.header-default-white .navigation-white .sub-nav-white li a {
+  color: #fff;
+}
+*/
+/* end of white custom menu code */
+
 .mobile-navigation-overlay,
 .photo-category-overlay {
 	background: rgba(0, 0, 0, .7);
@@ -536,4 +557,8 @@ Table of Contents
 
 .portfolio-metro_02 .portfolio-item-overlay {
 	background: rgba(245, 0, 87, .8);
+}
+
+.white {
+  color: white;
 }

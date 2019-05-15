@@ -4286,12 +4286,27 @@ footer ul li {
 	background-size: cover;
 }
 
+.hero-single-project_03_web {
+  background: url('../img/projects/ewp-website/aerial-cover.jpg');
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.single-project_03_web {
+  margin-bottom: 145px;
+}
+
 .single-project_03 {
 	margin-bottom: 145px;
 }
 
 .single-project_03 .info-block-halves {
 	margin: 146px 0 138px;
+}
+
+.single-project_03_web .info-block-halves {
+  margin: 146px 0 138px;
 }
 
 /* Single Project 04 */
@@ -4344,4 +4359,6 @@ footer ul li {
 	width: 65%;
 }
 
-
+.white {
+  color: white;
+}
